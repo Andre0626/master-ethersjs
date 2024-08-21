@@ -1,4 +1,4 @@
-const { ethers } = require("ethers");
+import { ethers } from "ethers";
 
 const INFURA_ID = '5b11eabc08ce4c2e9fc2d83a3957cf21';
 const provider = new ethers.providers.JsonRpcProvider(`https://mainnet.infura.io/v3/${INFURA_ID}`);

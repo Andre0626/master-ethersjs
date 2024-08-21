@@ -10,5 +10,6 @@
   "description": "",
   "dependencies": {
     "ethers": "^5.7.0"
-  }
+  },
+  "type": "module"
 }
